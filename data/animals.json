@@ -171,6 +171,15 @@
         "hungry"
       ],
       "id": "17"
+    },
+    {
+      "name": "dsfs",
+      "species": "dsfdsf",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "18"
     }
   ]
 }
