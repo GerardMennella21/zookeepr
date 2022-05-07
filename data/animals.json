@@ -180,6 +180,16 @@
         "zany"
       ],
       "id": "18"
+    },
+    {
+      "name": "bill",
+      "species": "tiger",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "19"
     }
   ]
 }
